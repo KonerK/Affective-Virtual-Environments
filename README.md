@@ -1,10 +1,15 @@
-# Creating Four Affective Virtual Environments in VR
-This project describes the work undertaken in my dissertation, which focused on creating four affective environments each designed to induce a specific emotion. The Unity environments developed during this project, in collaboration with another student from the University of Bath, exceed 128GB. The environments are currently held in private repository owned by the University of Bath. When this repository becomes public, I will add a link here. 
+<h1 align="center">
+  <br />
+  Affective VR
+</h1>
 
-## Project Overview
-Virtual reality (VR) has been shown to elicit intense emotion in users. However, due to the relative novelty of the technology, developers are still unsure how to best design virtual environments (VEs) to maximize emotional engagement and intensity. This project aimed to identify specific design choices that can evoke four different target emotions in VR: happiness, calmness, sadness, and fear. A second goal was to achieve this with minimal variation between the VEs, ensuring usabilitity for academic research, where it is essential to minimize confounding variables. With this in mind, we designed each VE to be as similar as possible, systematically altering specific elements in each, such as lighting, to influence user emotion. 
+The use of virtual reality (VR) for mood induction is well-documented, yet few have investigated the induction of a variety of different emotions in an ecologically valid manner in VR. This work, then, aimed to create four affective environments each designed to induce a specific emotion through as minimal changes as possible (colour, sound design, environmental objects) to allow for better use of affective VR in HCI research. 
 
-## Results & Analysis
+This project discusses work carried out in my dissertation. The Unity assets used for development during this project can be found [here][1]. This research was undertaken in collaboration with another student from the University of Bath, and the development size exceeds 128GB. The environments are currently held in private repository owned by the University of Bath, and will be referenced when this repository becomes public. 
+
+## Did I make you happy, sad, fearful, or calm? 
+VR has been shown to elicit intense emotion in users. However, due to the relative novelty of the technology, developers are still unsure how to best design virtual environments (VEs) to maximize emotional engagement and intensity. Here, we look at specific design choices that can evoke four different target emotions in VR: happiness, calmness, sadness, and fear. As mentioned, a second primary goal was to achieve this with minimal variation between the VEs, ensuring usabilitity for academic research, where it is essential to minimize confounding variables. With this in mind, we designed each VE to be as similar as possible, systematically altering specific elements in each, such as lighting, to influence user emotion.
+
 Overall, the four following virtual environments were developed. we manipulated sound design, lighting, color scheme, and environmental objects, such as flowers, and trees, within the same realistic bedroom VE. For instance, the VE designed to elicit fear was filled with bloodied handprints and stains across the room. It was also very dark, and the sound of a floor creaking could be heard in the background.
 
 <p align="center">
@@ -25,12 +30,7 @@ In each case, a repeated-measures ANOVA was used to analyze the effect of the VE
    <img width="1551" alt="Screenshot 2024-10-17 at 08 40 53" src="https://github.com/user-attachments/assets/d6cd1fed-f2b4-4779-adfe-b360e497fa5f">
 </p>
 
-From these results, it was clear that each VE successfully elicited its target emotion at intense levels, but these emotions were not distinct within each environment. We explore this more thoroughly in the dissertation, but this likely due to the fact that emotions can often co-occur. That is, it may be quite difficult to feel very calm without also feeling happy. We also look at ways in which we could further evoke the different emotions in each VE. We suggest future directions to developers on how to design virtual environments to best elicit desired emotions based on these results.
-
-## Conclusions & Future Work
-From these results, it was clear that each VE successfully elicited its target emotion at intense levels, but these emotions were not distinct within each environment. We explore this more thoroughly in the dissertation, but this likely due to the fact that emotions can often co-occur. That is, it may be quite difficult to feel very calm without also feeling happy. We also look at ways in which we could further evoke the different emotions in each VE. We suggest future directions to developers on how to design virtual environments to best elicit desired emotions based on these results.
-
-Not mentioned previously was a separate goal of this dissertation, which was that these environments were built with the intent to use them in the study of embodiment in VR.  The sense of embodiment broadly refers to the senses that help us feel ownership over our body. It has been shown that we can actually feel a sense of embodiment towards external objects, such as our avatars in VR. However, little is known about the interplay between emotion and embodiment, and as such, this work was developed so that future studies can explore this relationship thoroughly in a controlled, systematic manner.
+From these results, it was clear that each VE successfully elicited its target emotion at intense levels, but these emotions were not distinct within each environment. This is explored thoroughly in the provided report, where we also explore how we could further distinct emotions within each VE. Overall, though, this study provides evidence that we can elicit intense, yet specific, emotions within virtual environments without the use of traditional mood induction methods that often poorly reflect the context in which VR is actually used, such as the [autobiographical emotional memory task][2] and the [international affective picture system][3]). 
 
 ## Technologies
 <p>
@@ -38,6 +38,9 @@ Not mentioned previously was a separate goal of this dissertation, which was tha
   <img alt="VR" src="https://img.shields.io/badge/VR-714079"<p>
   <img alt="JASP" src="https://img.shields.io/badge/JASP-70589c"<p>
   <img alt="Prism" src="https://img.shields.io/badge/Prism-577ca4""<p>
-  
 </p>
+
+[1]: https://assetstore.unity.com/packages/3d/environments/urban/atmospheric-house-modular-192712
+[2]: https://www.amdpi.com/2414-4088/7/4/38
+[3]: https://www.frontiersin.org/joaaurnals/psychology/articles/10.3389/fpsyg.2021.674179/full
 
