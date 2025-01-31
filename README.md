@@ -1,10 +1,10 @@
-Affective VR
+# Affective VR
 
 The use of virtual reality (VR) for mood induction is well-documented, yet few have investigated the induction of a variety of different emotions in an ecologically valid manner in VR. This work, then, aimed to create four affective environments each designed to induce a specific emotion through as minimal changes as possible (colour, sound design, environmental objects) to allow for better use of affective VR in HCI research. 
 
 This project discusses work carried out in my dissertation. The Unity assets used for development during this project can be found [here][1]. This research was undertaken in collaboration with another student from the University of Bath, and the development size exceeds 128GB. The environments are currently held in private repository owned by the University of Bath, and will be referenced when this repository becomes public. 
 
-## Are you happy, sad, scared, or calm? 
+## Emotion Elicitation in VR
 VR has been shown to elicit intense emotion in users. However, due to the relative novelty of the technology, developers are still unsure how to best design virtual environments (VEs) to maximize emotional engagement and intensity. Here, we look at specific design choices that can evoke four different target emotions in VR: happiness, calmness, sadness, and fear. As mentioned, a second primary goal was to achieve this with minimal variation between the VEs, ensuring usabilitity for academic research, where it is essential to minimize confounding variables. With this in mind, we designed each VE to be as similar as possible, systematically altering specific elements in each, such as lighting, to influence user emotion.
 
 Overall, the four following virtual environments were developed. we manipulated sound design, lighting, color scheme, and environmental objects, such as flowers, and trees, within the same realistic bedroom VE. For instance, the VE designed to elicit fear was filled with bloodied handprints and stains across the room. It was also very dark, and the sound of a floor creaking could be heard in the background.
