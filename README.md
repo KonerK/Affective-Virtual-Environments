@@ -1,7 +1,4 @@
-<h1 align="center">
-  <br />
-  Affective VR
-</h1>
+Affective VR
 
 The use of virtual reality (VR) for mood induction is well-documented, yet few have investigated the induction of a variety of different emotions in an ecologically valid manner in VR. This work, then, aimed to create four affective environments each designed to induce a specific emotion through as minimal changes as possible (colour, sound design, environmental objects) to allow for better use of affective VR in HCI research. 
 
